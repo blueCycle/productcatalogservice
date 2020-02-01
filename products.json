@@ -4,7 +4,7 @@
             "id": "OLJCESPC7Z",
             "name": "Avocadoes",
             "description": "This typewriter looks good in your living room.",
-            "picture": "/static/img/products/avacados.jpg",
+            "picture": "/static/img/products/avocados.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
                 "units": 67,
