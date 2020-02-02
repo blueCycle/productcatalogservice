@@ -4,7 +4,7 @@
             "id": "OLJCESPC7Z",
             "name": "Avocadoes",
             "description": "This typewriter looks good in your living room.",
-            "picture": "https://productcatalogservice-12345.s3.us-east-2.amazonaws.com/avocados.jpg",
+            "picture": "http://d2go9q1ry8k2px.cloudfront.net/avocados.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
                 "units": 67,
@@ -16,7 +16,7 @@
             "id": "66VCHSJNUP",
             "name": "Milk",
             "description": "You won't have a camera to use it and it probably doesn't work anyway.",
-            "picture": "/static/img/products/milk.jpg",
+            "picture": "http://d2go9q1ry8k2px.cloudfront.net/milk.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
                 "units": 12,
@@ -28,7 +28,7 @@
             "id": "1YMWWN1N4O",
             "name": "Tomatoes",
             "description": "Always wanted to brew coffee with Chemex and Aeropress at home?",
-            "picture": "/static/img/products/tomatoes.jpg",
+            "picture": "http://d2go9q1ry8k2px.cloudfront.net/tomatoes.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
                 "units": 124
@@ -39,7 +39,7 @@
             "id": "L9ECAV7KIM",
             "name": "Bread",
             "description": "This terrarium will looks great in your white painted living room.",
-            "picture": "/static/img/products/bread.jpg",
+            "picture": "http://d2go9q1ry8k2px.cloudfront.net/bread.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
                 "units": 36,
@@ -51,7 +51,7 @@
             "id": "2ZYFJ3GM2N",
             "name": "Salmon",
             "description": "This camera looks like it's a film camera, but it's actually digital.",
-            "picture": "/static/img/products/salmon.jpg",
+            "picture": "http://d2go9q1ry8k2px.cloudfront.net/salmon.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
                 "units": 2245
@@ -62,7 +62,7 @@
             "id": "0PUK6V6EV0",
             "name": "Broccoli",
             "description": "It still works.",
-            "picture": "/static/img/products/broccoli.jpg",
+            "picture": "http://d2go9q1ry8k2px.cloudfront.net/broccoli.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
                 "units": 65,
@@ -74,7 +74,7 @@
             "id": "LS4PSXUNUM",
             "name": "Orange",
             "description": "You probably don't go camping that often but this is better than plastic cups.",
-            "picture": "/static/img/products/orange.jpg",
+            "picture": "http://d2go9q1ry8k2px.cloudfront.net/orange.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
                 "units": 24,
@@ -86,7 +86,7 @@
             "id": "9SIQT8TOJO",
             "name": "Cheese",
             "description": "This single gear bike probably cannot climb the hills of San Francisco.",
-            "picture": "/static/img/products/cheese.jpg",
+            "picture": "http://d2go9q1ry8k2px.cloudfront.net/cheese.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
                 "units": 789,
@@ -98,7 +98,7 @@
             "id": "6E92ZMYYFZ",
             "name": "Chicken",
             "description": "Have you ever wondered whether air plants need water? Buy one and figure out.",
-            "picture": "/static/img/products/chicken.jpg",
+            "picture": "http://d2go9q1ry8k2px.cloudfront.net/chicken.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
                 "units": 12,
